@@ -1,0 +1,14 @@
+[
+  {
+    "name": "toyota",
+    "id": 1,
+    "type": "car",
+    "version": 1
+  },
+  {
+    "name": "mazda",
+    "id": 2,
+    "type": "car",
+    "version": 1
+  }
+]

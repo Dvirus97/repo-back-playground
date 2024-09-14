@@ -1,0 +1,32 @@
+[
+  {
+    "name": "bbb",
+    "id": 1,
+    "type": "person",
+    "version": 9
+  },
+  {
+    "name": "berta",
+    "id": "2",
+    "type": "person",
+    "version": 1
+  },
+  {
+    "name": "dvir",
+    "id": "3",
+    "type": "person",
+    "version": 1
+  },
+  {
+    "name": "ori",
+    "id": 4,
+    "type": "person",
+    "version": 1
+  },
+  {
+    "name": "aviv",
+    "id": 5,
+    "type": "person",
+    "version": 1
+  }
+]
